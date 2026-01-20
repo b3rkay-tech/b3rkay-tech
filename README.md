@@ -57,7 +57,7 @@
 <h2 align="center">🤝 Свържи се с мен</h2>
 <p align="center">
   <a href="mailto:realberkay@tuta.com">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"
+    <img src="https://imgs.search.brave.com/2z-7_AJGu3kNdEGm2VT8X0En2vTShhrED0Cdw702bAI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c3ZncmVwby5jb20v/c2hvdy80NzQxMzUv/ZW1haWwuc3Zn"
       height="30" width="40" />
   </a>
 </p>
