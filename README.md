@@ -8,7 +8,7 @@
 
 <p align="center">
   📫 <strong>realberkay@tuta.com</strong> · <strong>contact@root.surf</strong><br/>
-  🌐 <a href="https://root.surf" target="_blank">root.surf</a>
+  🌐 <a href="https://root.surf" target="_blank">berkaytech.eu</a>
 </p>
 
 <hr/>
