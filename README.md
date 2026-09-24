@@ -55,7 +55,10 @@ i like everything in tech. reverse engineering is just the latest thing i got in
 
 currently not very active because of school and my mental issues xd
 
+</div>
 
+> [!CAUTION]
+> **Experimental code ahead.** Nothing here is audited, guaranteed, or necessarily a good idea. If you deploy something from here and your secrets somehow end up on the War Thunder forums, that's a you problem.
 </div>
 
 <br/>
@@ -71,11 +74,8 @@ currently not very active because of school and my mental issues xd
 
 <br/>
 
-### ⚠️ disclaimer
 
-**experimental code ahead.** nothing here is audited, guaranteed, or necessarily a good idea. most things are held together with questionable decisions and unreasonable amounts of caffeine.
 
-if you deploy something from here and your secrets somehow end up on the War Thunder forums, that's a you problem.
 
 <img
   width="100%"
