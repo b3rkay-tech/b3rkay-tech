@@ -25,6 +25,7 @@ i like everything in tech. reverse engineering is just the latest thing i got in
 ### writing
 
 - [what cvss actually measures](https://berkay.wtf/blog/cvss-measuring)
+- [all things learned from game cheats](https://berkay.wtf/blog/game-hacking)
 - [how i got into reverse engineering at 13](https://berkay.wtf/blog/getting-into-re)
 
 <br/>
@@ -43,23 +44,22 @@ i like everything in tech. reverse engineering is just the latest thing i got in
 
 ### activity
 
-<div align="center">
-
 <img
   height="165"
-  alt="GitHub stats"
-  src="https://github-readme-stats.vercel.app/api?username=b3rkay-tech&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=8b949e&text_color=8b949e&ring_color=e6edf3"
+  alt="GitHub streak"
+  src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=b3rkay-tech"
 />
 
-<img
-  height="165"
-  alt="Top languages"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=b3rkay-tech&layout=compact&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e"
-/>
+
+</div>
+
+currently not very active because of school and my mental issues xd
+
 
 </div>
 
 <br/>
+
 
 <div align="center">
 
@@ -70,6 +70,12 @@ i like everything in tech. reverse engineering is just the latest thing i got in
 </sub>
 
 <br/>
+
+### ⚠️ disclaimer
+
+**experimental code ahead.** nothing here is audited, guaranteed, or necessarily a good idea. most things are held together with questionable decisions and unreasonable amounts of caffeine.
+
+if you deploy something from here and your secrets somehow end up on the War Thunder forums, that's a you problem.
 
 <img
   width="100%"
